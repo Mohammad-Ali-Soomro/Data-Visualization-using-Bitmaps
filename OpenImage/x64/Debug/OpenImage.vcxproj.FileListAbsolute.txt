@@ -1,0 +1,6 @@
+D:\GIKI\SEMESTER 02\CS112\GUI C++\OpenImage\OpenImage\x64\Debug\OpenImage.vcxproj.AssemblyReference.cache
+D:\GIKI\SEMESTER 02\CS112\GUI C++\OpenImage\OpenImage\x64\Debug\OpenImage.Form1.resources
+D:\GIKI\SEMESTER 02\CS112\GUI C++\OpenImage\OpenImage\x64\Debug\OpenImage.vcxproj.GenerateResource.cache
+D:\GIKI\SEMESTER 02\CS112\Semester Project\OpenImage\OpenImage\x64\Debug\OpenImage.vcxproj.AssemblyReference.cache
+D:\GIKI\SEMESTER 02\CS112\Semester Project\OpenImage\OpenImage\x64\Debug\OpenImage.Form1.resources
+D:\GIKI\SEMESTER 02\CS112\Semester Project\OpenImage\OpenImage\x64\Debug\OpenImage.vcxproj.GenerateResource.cache
